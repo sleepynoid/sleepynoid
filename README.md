@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sleepynoid
 - 👀 I’m interested in Go and Pyton language
-- 🌱 I’m currently learning GO language
+- 🌱 I’m currently learning C++, and GO language
 - 💞️ I’m looking to collaborate on learning golang
 - 📫 How to reach me space-colony05@protonmail.com
 
